@@ -8,9 +8,8 @@
 // PEOPLE I HELPED		:	N/A
 // PEOPLE WHO HELPED ME	:	Mr. Houtrouw
 
-package distanceProj;
 import java.util.Scanner;
-public class DistanceProj 
+public class DistanceMultiple; 
 {
 	public static void main(String[] args) 
 	{

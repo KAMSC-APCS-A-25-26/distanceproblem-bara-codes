@@ -9,7 +9,7 @@
 // PEOPLE WHO HELPED ME	:	Mr. Houtrouw
 
 import java.util.Scanner;
-public class DistanceMultiple; 
+public class DistanceMultiple 
 {
 	public static void main(String[] args) 
 	{
